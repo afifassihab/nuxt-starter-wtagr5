@@ -7,7 +7,7 @@ export default {
   data () {
     return {
       title: "Welcome to my blog",
-      title2: "enjoy the article",
+      title2: "This is just a stackblitz test",
       displayText: "Welcome to my blog"
     }
   },
